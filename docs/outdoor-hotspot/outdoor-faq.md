@@ -1,5 +1,7 @@
 # Outdoor Hotspot FAQs
 
+## How to use PoE (power over ethernet)? Would this be completley powered by the ethernet cable and thus not require a power cable and would I have to buy a n extra PoE splitter or adaptor?
+
 ## Can I use a different antenna with the Outdoor Hotspot?
 
 ## Can I add 4G connectivity to the Outdoor Hotspot?
